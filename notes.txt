@@ -1,0 +1,22 @@
+Install python
+
+install PyQt5
+
+
+pip install PyQt5 pyqt5-tools
+
+Open Designer
+
+Create a main window
+
+change window title
+
+ChangeObject Name of the QMainWindow
+
+Create the resource file
+
+name it resource
+
+add files (the icons)
+
+go to utils > images and add all
